@@ -1,0 +1,6 @@
+stamp2.sln
+*.config
+*.csproj
+/bin/
+/obj/
+/Properties/
